@@ -1,0 +1,2 @@
+# DOM_Array_Methods_Project
+This is a project usingHTML, CSS, JS, basically showcasing my understanding of various Array Methods in JS such as map,filter,reduce,sort. This app fetches random users with the help of an api and it has the functionality of displaying the wealth they posess. It can also sort by the Richest, double every user's money, show who among the users are millionaires and also calculate the total wealth of the users displayed.
